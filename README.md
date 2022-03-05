@@ -1,3 +1,15 @@
+# About the project
+
+### This project is a simple application that showcases the basic functionality of a shopping cart.
+
+# Tech stack
+
+* ReactJS
+* Typescipt
+* MaterialUI
+* FakestoreAPI
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
